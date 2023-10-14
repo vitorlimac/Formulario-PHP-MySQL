@@ -1,2 +1,2 @@
 # MySQL
-Ligando um formulário no banco de dados  
+Ligando um formulário ao banco de dados com XAMPP 
